@@ -1,0 +1,5 @@
+INICIAR EN GIT  => git init
+
+pARA AGREGAR NUEVOS ARCHIVOS O MODIFICACIONES => git add -A
+2.PARA CONTINUAR UPDATE DE LOCAL A GITHUB => git commit -m
+3.git push origin master
